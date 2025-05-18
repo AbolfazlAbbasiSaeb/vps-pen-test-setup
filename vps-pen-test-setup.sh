@@ -2,7 +2,7 @@
 
 # ================================
 # Setup VPS for Penetration Testing & Attacks
-# Author: YourName
+# Author: Abolfazl Abbasi
 # Date: 2025-05-18
 # ================================
 
